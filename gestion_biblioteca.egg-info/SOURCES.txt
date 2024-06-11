@@ -1,0 +1,11 @@
+setup.py
+gestion_biblioteca.egg-info/PKG-INFO
+gestion_biblioteca.egg-info/SOURCES.txt
+gestion_biblioteca.egg-info/dependency_links.txt
+gestion_biblioteca.egg-info/top_level.txt
+modulos/__init__.py
+modulos/anadir.py
+modulos/borrar.py
+modulos/buscar.py
+modulos/mostrar.py
+modulos/screen.py
